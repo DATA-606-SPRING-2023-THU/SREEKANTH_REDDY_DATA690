@@ -9,7 +9,7 @@ Getting graduate admission in a well suited college is highly important for ever
  ## Why it is important:
 For any student whose goal is to do masters, this application gives a fair idea about their chances for a particular university.
 ## Data Set:
-
+https://www.kaggle.com/datasets/mohansacharya/graduate-admissions?resource=download
 
 The parameters included are :
 - GRE Scores ( out of 340 )
