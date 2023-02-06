@@ -11,7 +11,7 @@ For any student whose goal is to do masters, this application gives a fair idea 
 ## Data Set:
 https://www.kaggle.com/datasets/mohansacharya/graduate-admissions?resource=download
 
-The parameters included are :
+## The parameters included are :
 - GRE Scores ( out of 340 )
 - TOEFL Scores ( out of 120 )
 - University Rating ( out of 5 )
@@ -19,6 +19,14 @@ The parameters included are :
 - Letter of Recommendation Strength ( out of 5 )
 - Undergraduate GPA ( out of 10 )
 - Research Experience ( either 0 or 1 )
+## Techniques/model : 
+ - Multiple linear regression
+ - k-nearest neighbor 
+ - random forest
+ - Multilayer Perceptron.
+## Plan to deploy ML
 
-Output : 
+Machine Learning End-to-End (Multiple linear regression,k-nearest neighbor,random forest,Multilayer Perceptron.) model project on MS Application Prediction
+
+## Output : 
 - Chances of Admission :  range in ( 0% - 100 %)
