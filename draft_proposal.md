@@ -24,7 +24,7 @@ https://www.kaggle.com/datasets/mohansacharya/graduate-admissions?resource=downl
  - Multilayer Perceptron.
 ## Plan to deploy ML
 
-Machine Learning End-to-End (Multiple linear regression,k-nearest neighbor,random forest,Multilayer Perceptron.) model project on MS Application Prediction
+Machine Learning End-to-End (Multiple linear regression,k-nearest neighbor,random forest,Multilayer Perceptron.) model project on Masters Admission Prediction
 
 ## Output : 
 - Chances of Admission :  range in ( 0% - 100 %)
