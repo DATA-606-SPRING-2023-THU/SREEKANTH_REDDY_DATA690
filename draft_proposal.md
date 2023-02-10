@@ -1,6 +1,8 @@
 # Masters-Admission-Prediction
 Masters-Admission-Prediction is a Machine Learning based web application. This application was built with the purpose of helping students in shortlisting universities with their profiles. The predicted output gives them a fair idea about their chances for a particular university.
+
 Context : This app is created for the prediction of Graduate Admissions from an Indian perspective.
+
 Content : The dataset contains several parameters which are considered important during the application for Masters Programs.
 ## Issue of intrest: 
 Getting graduate admission in a well suited college is highly important for every aspiring student. I would like to represent an extensive proposal about the admission prediction of their graduation. 
