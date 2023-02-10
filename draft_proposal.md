@@ -23,7 +23,6 @@ https://www.kaggle.com/datasets/mohansacharya/graduate-admissions?resource=downl
  - Multiple linear regression
  - k-nearest neighbor 
  - random forest
- - Multilayer Perceptron.
 ## Plan to deploy ML
 
 Machine Learning End-to-End (Multiple linear regression,k-nearest neighbor,random forest,Multilayer Perceptron.) model project on Masters Admission Prediction
