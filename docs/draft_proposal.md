@@ -27,7 +27,7 @@ The Data Set Contains numerical and floating Data types.
  - random forest
 ## Plan to deploy ML
 
-Machine Learning End-to-End (Multiple linear regression,k-nearest neighbor,random forest,Multilayer Perceptron.) model project on Masters Admission Prediction
+Machine Learning End-to-End (Multiple linear regression,k-nearest neighbor,random forest.) model project on Masters Admission Prediction
 
 ## Output : 
 - Chances of Admission :  range in ( 0% - 100 %)
