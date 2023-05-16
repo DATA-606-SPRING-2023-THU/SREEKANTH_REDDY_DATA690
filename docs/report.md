@@ -13,3 +13,5 @@ The predictive model will be designed to handle a wide range of data types, incl
 Additionally, we will incorporate feature engineering techniques to extract meaningful insights from the data and potentially identify hidden factors that strongly influence the admission decision process. This could include analyzing the importance of different features, identifying any biases or disparities in the admission process, and exploring ways to address them to ensure a fair and unbiased admission process.
 
 By completing this project, we hope to contribute to the development of a transparent, data-driven, and efficient admission process for Master's programs. Our ultimate aim is to provide applicants with reliable predictions regarding their admission chances and support admission committees in their decision-making process
+## Dataset
+
