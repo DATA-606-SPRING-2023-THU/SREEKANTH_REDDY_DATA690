@@ -31,3 +31,6 @@ Letter of Recommendation Strength ( out of 5 )
 Undergraduate GPA ( out of 10 )
 
 Research Experience ( either 0 or 1 )
+## Target
+Chance of Admission
+# Data Cleaning and Preprocessing
