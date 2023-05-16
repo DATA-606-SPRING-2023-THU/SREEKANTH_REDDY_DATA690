@@ -14,7 +14,7 @@ Additionally, we will incorporate feature engineering techniques to extract mean
 
 By completing this project, we hope to contribute to the development of a transparent, data-driven, and efficient admission process for Master's programs. Our ultimate aim is to provide applicants with reliable predictions regarding their admission chances and support admission committees in their decision-making process
 ## Dataset
-The Data Set Contains 9 columns and 400 rows. The Data Set Contains numerical and floating Data types.
+The Data Set Contains 8 columns and 400 rows. The Data Set Contains numerical and floating Data types.
 
 The parameters included are :
 
@@ -34,3 +34,24 @@ Research Experience ( either 0 or 1 )
 ## Target
 Chance of Admission
 # Data Cleaning and Preprocessing
+Columns in my dataset and their data types
+
+<img width="292" alt="image" src="https://github.com/DATA-606-SPRING-2023-THU/SREEKANTH_REDDY_DATA690/assets/99163655/94e6f851-983c-431f-8a3c-4db60cc0fcd8">
+
+The Description of my Dataset
+
+<img width="553" alt="image" src="https://github.com/DATA-606-SPRING-2023-THU/SREEKANTH_REDDY_DATA690/assets/99163655/eafee749-1732-4ca4-b340-aeadecc66d06">
+As there are no null values I went to visualization part to get some insights on my Dataset
+
+# Data Visualization
+I have creted a heatmap to visualize the correlation
+
+![image](https://github.com/DATA-606-SPRING-2023-THU/SREEKANTH_REDDY_DATA690/assets/99163655/89355312-38c5-4da2-b449-e0cb182605d3)
+
+As our Target value is Chance of Admission I also created a correlation matrix of chance of admission with other columns
+
+![image](https://github.com/DATA-606-SPRING-2023-THU/SREEKANTH_REDDY_DATA690/assets/99163655/dc845253-b584-45d6-82b1-87ab94682cc2)
+
+We can see from above that CGPA is the most correlated to chance of admit
+
+
