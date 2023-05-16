@@ -14,4 +14,13 @@ Additionally, we will incorporate feature engineering techniques to extract mean
 
 By completing this project, we hope to contribute to the development of a transparent, data-driven, and efficient admission process for Master's programs. Our ultimate aim is to provide applicants with reliable predictions regarding their admission chances and support admission committees in their decision-making process
 ## Dataset
+The Data Set Contains 9 columns and 400 rows. The Data Set Contains numerical and floating Data types.
 
+The parameters included are :
+GRE Scores ( out of 340 )
+TOEFL Scores ( out of 120 )
+University Rating ( out of 5 )
+Statement of Purpose Strength ( out of 5 )
+Letter of Recommendation Strength ( out of 5 )
+Undergraduate GPA ( out of 10 )
+Research Experience ( either 0 or 1 )
