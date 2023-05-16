@@ -17,6 +17,7 @@ By completing this project, we hope to contribute to the development of a transp
 The Data Set Contains 9 columns and 400 rows. The Data Set Contains numerical and floating Data types.
 
 The parameters included are :
+
 GRE Scores ( out of 340 )
 TOEFL Scores ( out of 120 )
 University Rating ( out of 5 )
