@@ -1,5 +1,5 @@
 #  Masters-Admission-Prediction
-##### Presentation Link : 
+##### Presentation Link : https://github.com/DATA-606-SPRING-2023-THU/SREEKANTH_REDDY_DATA690/blob/main/docs/capstone.pptx
 ##### Youtube Video Link : https://youtu.be/_Q9k3MyufPQ
 # contents
 1) Inroduction
