@@ -73,3 +73,5 @@ I performed the models and got the following accuracy scores:
 ![image](https://github.com/DATA-606-SPRING-2023-THU/SREEKANTH_REDDY_DATA690/assets/99163655/855497a3-1ec4-406e-b29a-18bb2c3454c0)
 
 ![image](https://github.com/DATA-606-SPRING-2023-THU/SREEKANTH_REDDY_DATA690/assets/99163655/162fe7a1-b235-4495-a891-727921d844c8)
+
+We can see from above that  'GradientBoostingclassifier' is the best model for prediction and the model is saved for prediction.
