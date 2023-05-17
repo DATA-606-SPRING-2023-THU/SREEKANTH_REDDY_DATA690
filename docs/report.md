@@ -1,6 +1,13 @@
 #  Masters-Admission-Prediction
 # contents
-## Objective
+1) Inroduction
+2) Dataset
+3) Data cleaning and Preprocessing
+4) Data Visualization
+5) Prediction Models
+6) Web Application using Streamlit
+7) Conclusion
+
 ## Introduction
 The admission process for Master's programs is a critical and highly competitive phase for both students and educational institutions. As an aspiring candidate, I have developed a keen interest in exploring the potential of data-driven methodologies to predict the outcome of the admission process accurately. The purpose of this project is to leverage machine learning techniques and historical admission data to create a predictive model that can estimate the likelihood of admission for future applicants.
 
@@ -75,3 +82,28 @@ I performed the models and got the following accuracy scores:
 ![image](https://github.com/DATA-606-SPRING-2023-THU/SREEKANTH_REDDY_DATA690/assets/99163655/162fe7a1-b235-4495-a891-727921d844c8)
 
 We can see from above that  'GradientBoostingclassifier' is the best model for prediction and the model is saved for prediction.
+# Web Application Using Streamlit
+
+In today's digital age, web applications have become essential tools for delivering content, providing services, and interacting with users. Streamlit, a powerful Python library, enables developers to quickly and easily create interactive web applications with minimal effort.
+
+Here are some insights of web application 
+
+<img width="1278" alt="image" src="https://github.com/DATA-606-SPRING-2023-THU/SREEKANTH_REDDY_DATA690/assets/99163655/3a83594f-c382-4af0-90e6-7df4d2207914">
+
+<img width="971" alt="image" src="https://github.com/DATA-606-SPRING-2023-THU/SREEKANTH_REDDY_DATA690/assets/99163655/d451b2dd-f8ce-4dde-a15f-2ca2d75c0833">
+
+# Conclusion:
+The Masters Admission Prediction project has successfully achieved its objectives of developing a robust predictive model to estimate the likelihood of admission for future applicants to Masters programs. Through rigorous data collection, preprocessing, analysis, and model development, we have created a valuable tool that can provide insights and support decision-making for both applicants and admission committees.
+
+ By leveraging machine learning techniques and historical admission data, we developed a predictive model that takes into account various factors such as undergraduate GPA, standardized test scores, recommendation letters, and personal statements.
+
+Our model demonstrated promising results during evaluation, achieving high accuracy and performance metrics. It showcased its ability to generalize well and make accurate predictions for new applicants. The feature importance analysis revealed the key factors influencing admission outcomes, enabling applicants to identify areas of strength or areas for improvement in their profiles.
+
+
+The deployment of the predictive model through a user-friendly interface or application provides applicants with valuable information about their chances of admission. It empowers them to make informed decisions about which programs to apply to, based on their predicted probabilities of admission. Admission committees can also benefit from the model by utilizing it as an additional tool to evaluate and prioritize candidates.
+
+Overall, this project contributes to the field of Masters admission by leveraging data-driven methodologies to enhance the admission process. It provides a transparent and efficient tool that supports applicants in their decision-making and aids admission committees in their evaluation process. The project's outcomes can have a positive impact on the academic community by promoting fairness, objectivity, and informed decision-making in Masters program admissions.
+
+Moving forward, the predictive model can be further improved and expanded. This could involve incorporating additional features, exploring different machine learning algorithms, or integrating real-time data updates to enhance accuracy and relevance. Continuous monitoring and evaluation of the model's performance can ensure its effectiveness and adaptability to changing admission trends and requirements.
+
+In conclusion, the Masters Admission Prediction project has successfully achieved its objectives and demonstrated the value of predictive modeling in the admission process. The project's outcomes hold significant potential to improve the efficiency, fairness, and transparency of Masters program admissions, benefiting both applicants and educational institutions alike.
