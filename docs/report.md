@@ -54,4 +54,22 @@ As our Target value is Chance of Admission I also created a correlation matrix o
 
 We can see from above that CGPA is the most correlated to chance of admit
 
+# Prediction Models 
 
+For this dataset I have decided to condered it as Regression problem and classification problem
+The Regression models used in this are:
+1) Linear Regression
+2) Support Vector Regression
+3) Random Forest Regressor
+4) Gradient Boosting Regressor
+The Clssification models used in this are:
+1) Logistic Regression
+2) Support Vector Machine
+3) Kneighborsclassifier
+4) RandomForestclassifier
+5) GradientBoostingclassifier
+I performed the models and got the following accuracy scores:
+
+![image](https://github.com/DATA-606-SPRING-2023-THU/SREEKANTH_REDDY_DATA690/assets/99163655/855497a3-1ec4-406e-b29a-18bb2c3454c0)
+
+![image](https://github.com/DATA-606-SPRING-2023-THU/SREEKANTH_REDDY_DATA690/assets/99163655/162fe7a1-b235-4495-a891-727921d844c8)
